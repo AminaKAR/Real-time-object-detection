@@ -30,5 +30,4 @@ spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.7  m
 If you have come this far you should be able to see something like this:
 x-special/nautilus-clipboard
 copy
-file:///home/amina/Downloads/predictive_maintenance_ryax_metrics/object-detection/output.png
-
+https://github.com/AminaKAR/Real-time-object-detection/blob/main/output.png
