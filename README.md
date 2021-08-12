@@ -34,3 +34,6 @@ If you have come this far you should be able to see something like this:
 x-special/nautilus-clipboard
 copy
 https://github.com/AminaKAR/Real-time-object-detection/blob/main/output.png
+
+
+ps : the yolo3.weights is a too big file couldnt put it here.
